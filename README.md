@@ -247,9 +247,9 @@ https://your-backend.up.railway.app
 
 # Author
 
-Md Qais Alam
+Raziya Chikkale
 
-IIT Delhi
+
 ---
 
 # License
