@@ -242,14 +242,6 @@ https://your-frontend.up.railway.app
 ```bash
 https://your-backend.up.railway.app
 ```
-
----
-
-# Author
-
-Md Qais Alam
-
-IIT Delhi
 ---
 
 # License
