@@ -245,13 +245,6 @@ https://your-backend.up.railway.app
 
 ---
 
-# Author
-
-Md Qais Alam
-
-IIT Delhi
----
-
 # License
 
 This project is for educational and learning purposes.
